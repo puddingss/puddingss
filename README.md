@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @puddingss
 - 👀 I’m interested in EEG BCI.
 - 🌱 I’m currently learning python
-
+——Now,I am getting PHD in FuDan university china.
 
 <!---
 puddingss/puddingss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
