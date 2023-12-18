@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @puddingss
-- 👀 I’m interested in EEG BCI.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in EEG and BCI.
+- 🌱 I’m currently learning artificial intelligence.
 - ✨ I'm getting PHD in FuDan university china.
 
 <!---
